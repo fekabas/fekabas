@@ -15,6 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+git cheat sheet
+
+Create new repository example
+**
+echo "# fekabas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fekabas/fekabas.git
+git push -u origin main
+**
+
+Push an existing repository example
+**
+git remote add origin https://github.com/fekabas/fekabas.git
+git branch -M main
+git push -u origin main
+**
+-->
+
 - 🔭 I’m currently working on deploying my code to the cloud
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on health related projects
