@@ -37,11 +37,11 @@ git push -u origin main
 **
 -->
 
-- 🔭 I’m currently working on deploying my code to the cloud
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on health related projects
-- 🤔 I’m looking for help with blogging
-- 💬 Ask me about my morning routine
-- 📫 How to reach me: here on GitHub or at [Dev.to](https://dev.to/fekabas)
+- 🔭 I’m currently working on projects .NET to showcase
+<!-- - 🌱 I’m currently studying Master's in Software Engineering -->
+<!-- - 👯 I’m looking to collaborate on health related projects -->
+- 🤔 I’m looking for frontend partners
+<!-- - 💬 Ask me about my morning routine -->
+- 📫 How to reach me: here on GitHub or at [Dev.to](https://dev.to/fekabas) or at [Linkedin](https://www.linkedin.com/in/fernando-kabas)
 - 😄 Pronouns: he
-- ⚡ Fun fact: I'm really bad at writing fun facts 🤣
+<!-- - ⚡ Fun fact: I'm really bad at writing fun facts 🤣 -->
