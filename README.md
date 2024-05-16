@@ -43,5 +43,6 @@ git push -u origin main
 - 🤔 I’m looking for frontend partners
 <!-- - 💬 Ask me about my morning routine -->
 - 📫 How to reach me: here on GitHub or at [Dev.to](https://dev.to/fekabas) or at [Linkedin](https://www.linkedin.com/in/fernando-kabas)
+
 - 😄 Pronouns: he
 <!-- - ⚡ Fun fact: I'm really bad at writing fun facts 🤣 -->
