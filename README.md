@@ -37,7 +37,7 @@ git push -u origin main
 **
 -->
 
-- 🔭 I’m currently working on projects .NET to showcase
+- 🔭 I’m currently working on .NET projects to showcase
 <!-- - 🌱 I’m currently studying Master's in Software Engineering -->
 <!-- - 👯 I’m looking to collaborate on health related projects -->
 - 🤔 I’m looking for frontend partners
